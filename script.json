@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad you set Armado up! Do you want to tell Kaanthi that you're talking to his bot, Armado? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @Kaanthi so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kaanthi](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "EDUCATION": "Kaanthi is a lifelong learner. He has Bachelor's degree and Master's degree in Mechanical Engineering as well as an MBA from University of Washington. He continues to learn and is now fascinated by Python"
+    "EDUCATION": "Kaanthi is a lifelong learner. He has Bachelor's degree and Master's degree in Mechanical Engineering as well as an MBA from University of Washington. He continues to learn and is now fascinated by Python",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Kaanthi is back."
 }
