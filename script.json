@@ -1,10 +1,9 @@
 {
     "BOT": "Hi there!\nI’m Armado, the personal bot of Kaanthi, a Engineer from Seattle.\n https://raw.githubusercontent.com/armado/ArmadoBot/master/img/Linkedin.jpg \nWant to know more about bots or learn about Kaanthi? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Kaanthi ](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set Armado up! Do you want to tell Kaanthi that you're talking to his bot, Armado? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @Kaanthi so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kaanthi](http://bit.ly/estherbot-tweet)",
+    "TELL HIM": "Let's tweet @Kaanthi so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kaanthi](http://bit.ly/1Tgwvqe)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "EDUCATION": "Kaanthi is a lifelong learner. \nMost recently, he is learning Python and plans to use it for automation of tasks. \nHe has Bachelor's degree and Master's degree in Mechanical Engineering as well as an MBA from University of Washington. \nHe also has a Certificate in Project Management from McGill University.",
-    "WIFE": "Kaanthi's wife is Jinji-Binji. She works in Seattle area and has a firm grip on him!!!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Kaanthi is back."
 }
