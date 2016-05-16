@@ -2,7 +2,7 @@
     "BOT": "Hi there!\nI’m Armado, the personal bot of Kaanthi, an Engineer from Seattle.\n![kaanthi](https://raw.githubusercontent.com/armado/ArmadoBot/master/img/Linkedin.jpg) \nWant to know more about bots or learn about Kaanthi? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Kaanthi ](postback:learn_about_kaanthi) %[One random fact!](postback:random_fact)",
     "HELLO": "Hi there!\nI’m Armado, the personal bot of Kaanthi, an Engineer from Seattle. Do you want to tell Kaanthi that you're talking to his bot, Armado? %[Tell him](postback:twitter) %[I want to know more](postback:twitter)",
     "TELL HIM": "Let's tweet @Kaanthi so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kaanthi](http://bit.ly/1Tgwvqe)",
-    "I WANT TO KNOW MORE": "Ok, So what do you want to know about?%[Education] %[Experience] %[Skills]",
+    "I WANT TO KNOW MORE": "Ok, So what do you want to know about? %[Education](postback:twitter) %[Experience](postback:twitter) %[Skills](postback:twitter)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "EDUCATION": "Kaanthi is a lifelong learner. \nMost recently, he is learning Python and plans to use it for automation of tasks. \nHe has Bachelor's degree and Master's degree in Mechanical Engineering as well as an MBA from University of Washington. \nHe also has a Certificate in Project Management from McGill University.",
     "CONNECT ME": "",
