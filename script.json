@@ -3,12 +3,12 @@
     "HELLO": "Hi there!\nI’m Armado, the personal bot of Kaanthi, an Engineer from Seattle. \n![kaanthi](https://raw.githubusercontent.com/armado/ArmadoBot/master/img/Linkedin.jpg) \nDo you want to tell Kaanthi that you're talking to his bot, Armado? %[Tell him](postback:twitter) %[I want to know more](postback:twitter)",
     "TELL HIM": "Let's tweet @Kaanthi so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kaanthi](http://bit.ly/1Tgwvqe)",
     "I WANT TO KNOW MORE": "Ok, So what do you want to know about? %[Education](postback:education) %[Experience](postback:experience) %[Skills](postback:skills)",
-    "EDUCATION": "Kaanthi is an Engineer in heart and a businessman in mind. \n Let me explain. \n Kaanthi has a Bachelor's in Mechanical Engineering from Bangalore University (BMSCE), Masters in Mechanical Engineering from Concordia University in Montreal and a Masters in Business Administration in Finance and Economics from University of Washington. %[Experience](postback:experience) %[Skills](postback:skills) %[Fun fact](postback:fun fact)",
+    "EDUCATION": "Kaanthi is an Engineer in heart and a businessman in mind. \n Let me explain. \n Kaanthi has a Bachelor's in Mechanical Engineering from Bangalore University (BMSCE), Masters in Mechanical Engineering from Concordia University in Montreal and a Masters in Business Administration in Finance and Economics from University of Washington. %[Experience](postback:experience) %[Skills](postback:skills) %[Funfact](postback:funfact)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "EDUCATION": "Kaanthi is a lifelong learner. \nMost recently, he is learning Python and plans to use it for automation of tasks. \nHe has Bachelor's degree and Master's degree in Mechanical Engineering as well as an MBA from University of Washington. \nHe also has a Certificate in Project Management from McGill University.",
     "EXPERIENCE": "Kaanthi has 16 years of experience in the domain of airplane structural design, composites manufacturing, supplier integration and certification.",
     "SKILLS": "Proficient in use of programming tools such as Python, structural design tools such as CATIA, ENOVIA as well as analysis tools such as ANSYS",
-    "FUN FACT": "Kaanthi's nickname is the doubler. Give him any number and he will continue to double it. Not kidding!! ",
+    "FUNFACT": "Kaanthi's nickname is the doubler. Give him any number and he will continue to double it. Not kidding!! ",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Armado is back."
 }
